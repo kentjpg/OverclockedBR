@@ -1,10 +1,2 @@
-add core_mod/disk/wars_patch/ui/ui_avatar_en.pac
-add core_mod/disk/wars_patch/ui/ui_avatar_en.pac.000
-add core_mod/disk/wars_patch/ui/ui_charamake_en.pac
-add core_mod/disk/wars_patch/ui/ui_charamake_en.pac.000
-add core_mod/disk/wars_patch/ui/ui_leaderboard_en.pac
-add core_mod/disk/wars_patch/ui/ui_leaderboard_en.pac.000
-add core_mod/disk/wars_patch/ui/ui_worldmap_en.pac
-add core_mod/disk/wars_patch/ui/ui_worldmap_en.pac.000
-add core_mod/disk/wars_patch/text/text_caption_en.pac
+add core_mod/disk/wars_patch/text/text_menu_en.pac
 add mod.ini
